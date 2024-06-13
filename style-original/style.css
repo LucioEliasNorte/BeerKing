@@ -1,0 +1,56 @@
+/*Selectores*/
+
+/*Selectores de etiqueta*/
+header nav ul{
+    list-style-type:square
+}
+a{
+    text-decoration:wavy
+}
+
+header nav {
+    background-color:green;
+}
+
+header nav a {
+    color:white;
+}
+
+.card {
+    display: inline;
+    text-align: center;
+    background-color: gold;
+}
+
+/*Selectores de ID*/
+
+
+/*Selectores de clases*/
+
+.card {
+    width: 450px;
+    height: 250px ;
+}
+
+.card-final {
+    background-color:greenyellow
+} 
+footer {
+    background-color: darkgreen;
+}
+
+
+header nav ul li {
+    display: inline-block;
+}
+
+.img-logo {
+    width: 70px;
+    height: 70px;
+}
+
+ .img-logo2 {
+    width: 120;
+    height: 180;
+
+}
