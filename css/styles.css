@@ -1,5 +1,18 @@
-h1 {
-  background-color: red;
+header nav {
+  background-color: green;
+}
+
+header nav a {
+  color: white;
+}
+
+/* estilos del header*/
+h2 {
+  background-color: blue;
+}
+
+.galeria {
+  display: grid;
 }
 
 /*# sourceMappingURL=styles.css.map */
