@@ -16,3 +16,9 @@ h2 {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+.card-cerveza {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
